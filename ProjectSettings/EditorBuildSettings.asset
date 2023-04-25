@@ -8,6 +8,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartingScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/NatureStarterKit2/Scene/Nature_Day_AspirationWoods.unity
+    guid: bca2abfff136fd243985ff292bc93447
+  - enabled: 1
+    path: Assets/NatureStarterKit2/Scene/Nature_Day_LostKingdom.unity
+    guid: 873d942bbeeb3ee418f69261665442bc
+  - enabled: 1
+    path: Assets/NatureStarterKit2/Scene/Nature_Night_AspirationWoods.unity
+    guid: 55d2dae806c47574990f57d10dd868c4
+  - enabled: 1
+    path: Assets/NatureStarterKit2/Scene/Nature_Night_LostKingdom.unity
+    guid: 2b02c29601fc84e49a18fde7fed33f95
+  - enabled: 1
+    path: Assets/Old Sea Port/scenes/Dock_Day_AspirationWoods.unity
+    guid: a5482c2dede10ac41b1d44591f424f93
+  - enabled: 1
+    path: Assets/Old Sea Port/scenes/Dock_Day_LostKingdom.unity
+    guid: 2f6dd725836f5a849a8b114ba4ef3cbe
+  - enabled: 1
+    path: Assets/Old Sea Port/scenes/Dock_Night_AspirationWoods.unity
+    guid: dbe887bb67de2634fb96cecf37b632d0
+  - enabled: 1
+    path: Assets/Old Sea Port/scenes/Dock_Night_LostKingdom.unity
+    guid: f4fc660ad7cf6eb4eb8cd6d109f7608e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
