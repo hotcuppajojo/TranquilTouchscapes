@@ -359,6 +359,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/ActivateTeleportationRay.cs"
 "Assets/AnimateHandOnInput.cs"
+"Assets/GameManager.cs"
+"Assets/GoHome.cs"
 "Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs"
 "Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs"
 "Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs"
